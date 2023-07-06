@@ -1,0 +1,7 @@
+; GCMex_parallel.def : Declares the module parameters for the DLL.
+
+LIBRARY
+	GCMex_parallel
+EXPORTS
+    ; Explicit exports can go here
+	mexFunction
